@@ -1,0 +1,5 @@
+#surefire_0
+#Mon Sep 02 11:37:55 IST 2013
+user.dir=/home/jinesh/Workspace/foo/camel-zeromq
+localRepository=/home/jinesh/.m2/repository
+basedir=/home/jinesh/Workspace/foo/camel-zeromq
